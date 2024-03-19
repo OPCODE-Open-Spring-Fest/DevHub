@@ -1,9 +1,8 @@
 name: Feature Request 
 description: Request a feature or suggest us what is in your mind!
-title: "[Feature]: "
-labels: "Issue:feature"
+labels: "enhancement"
 assignees:
-  - <project manager> 
+  - enhancement 
 body:
   - type: markdown
     attributes:
