@@ -1,5 +1,7 @@
 import React from "react";
 import Kriti from '../assets/kriti_img.JPG';
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faLinkedinIn } from "@fortawesome/free-brands-svg-icons";
 
 const Kriti2101066 = () => (
   <>
@@ -85,7 +87,12 @@ const Kriti2101066 = () => (
               >
                 CSE
               </button>
-
+              <a
+                href="https://www.linkedin.com/in/kritiraj19/"
+                className="text-sm font-semibold leading-6 text-white"
+              >
+                <FontAwesomeIcon icon={faLinkedinIn} size="2xl" style={{ color: "#ffffff", }} />
+              </a>
               <a
                 href="https://github.com/kriti-raj"
                 className="text-sm font-semibold leading-6 text-white"
