@@ -7,7 +7,7 @@ const Shruti2201022 = () => {
     return (
         <div className="">
             <div className="pt-16 min-h-lvh ">
-                <div className="mx-auto max-w-7xl py-24 sm:px-6 sm:py-8 lg:px-8 ">
+                <div className="mx-auto max-w-7xl py-24 sm:px-6 sm:py-6 lg:px-8 ">
                     {/* created gradient for the text part */}
                     <div className="relative isolate overflow-hidden bg-black px-6 pt-16 shadow-2xl sm:rounded-3xl sm:px-16 md:pt-24 lg:flex lg:gap-x-20 lg:px-24 lg:pt-0">
                     <div className="absolute top-0 -left-4 w-72 h-72 bg-pink-400 rounded full shadow-sm mix-blend-multiply filter blur-2xl opacity-70"></div>
