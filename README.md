@@ -1,5 +1,4 @@
 # Welcome to DevHub
-
 ## Prerequisites:
 
 - NodeJs v20
